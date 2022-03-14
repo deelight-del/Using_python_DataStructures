@@ -1,5 +1,6 @@
 #Two functions of armstrong number test definition
 
+#Function definition 2
 def armstrong():
     
     """
